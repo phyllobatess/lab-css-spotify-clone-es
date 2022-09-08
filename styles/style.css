@@ -6,3 +6,15 @@ Green: #00B172
 White: #FFF
 
 */
+nav div img{
+    height:60px
+    position:fixed;
+
+}
+nav{
+    display:flex;
+    flex-direction: row;
+}
+nav ul{
+    list-style-type: none;
+}
